@@ -2,6 +2,15 @@ body {
     background-color: rgb(36, 39, 44);
 }
 
+#displayValue {
+  color: white; 
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+ display: block;
+}
+
 .slider {
     -webkit-appearance: none;
     width: 50%;
